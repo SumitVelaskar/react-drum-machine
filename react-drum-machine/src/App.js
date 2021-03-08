@@ -1,5 +1,5 @@
 import React from "react";
-import { SidePanel } from "./components/SidePanel";
+import SidePanel from "./components/SidePanel";
 import Pad from "./components/Pad";
 
 class App extends React.Component {
@@ -73,8 +73,5 @@ class App extends React.Component {
     );
   }
 }
-
-// const app = document.querySelector("#drum-machine");
-// ReactDOM.render(<App data={DATA} />, app);
 
 export default App;

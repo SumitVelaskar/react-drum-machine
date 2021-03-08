@@ -1,6 +1,6 @@
 import React from "react";
 
-export class SidePanel extends React.Component {
+class SidePanel extends React.Component {
   render() {
     const style = this.props.power
       ? { background: "red" }
@@ -36,3 +36,5 @@ export class SidePanel extends React.Component {
     );
   }
 }
+
+export default SidePanel;

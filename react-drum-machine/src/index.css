@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap");
 
+body {
+  margin: 0;
+  border: 0;
+  height: auto;
+  width: auto;
+}
 .container {
   width: 100%;
   display: flex;

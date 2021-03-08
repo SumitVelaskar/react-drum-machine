@@ -2,4 +2,4 @@
 
 ## Try out now [ here](https://codepen.io/sumitvelaskar/full/yLabymG)
 
-![project image](./public/markdown_display.png "Title")
+[![project image](./public/markdown_display.png "Title")](https://codepen.io/sumitvelaskar/full/yLabymG)
